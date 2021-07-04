@@ -1,0 +1,7 @@
+C:\Users\eas.admin\source\repos\ComparerNET\ComparerNET\bin\Debug\ComparerNET.exe.config
+C:\Users\eas.admin\source\repos\ComparerNET\ComparerNET\bin\Debug\ComparerNET.exe
+C:\Users\eas.admin\source\repos\ComparerNET\ComparerNET\bin\Debug\ComparerNET.pdb
+C:\Users\eas.admin\source\repos\ComparerNET\ComparerNET\obj\Debug\ComparerNET.csproj.CoreCompileInputs.cache
+C:\Users\eas.admin\source\repos\ComparerNET\ComparerNET\obj\Debug\ComparerNET.exe
+C:\Users\eas.admin\source\repos\ComparerNET\ComparerNET\obj\Debug\ComparerNET.pdb
+C:\Users\eas.admin\source\repos\ComparerNET\ComparerNET\obj\Debug\ComparerNET.csprojAssemblyReference.cache
